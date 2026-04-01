@@ -45,3 +45,8 @@ button{
   background-color: rgb(0, 255, 238);
   border: 0.1rem solid black;
 }
+
+/* new code */
+.dragging {
+    opacity: 0.5;
+}
